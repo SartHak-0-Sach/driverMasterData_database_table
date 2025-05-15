@@ -1,0 +1,8 @@
+pandas
+numpy
+psycopg2-binary
+pygsheets
+sqlalchemy
+os
+sys
+datetime
